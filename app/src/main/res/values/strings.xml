@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoName</string>
+    <string name="create">注册</string>
+    <string name="login">登陆</string>
+    <integer name="cicleImage">15</integer>
+
+</resources>
+
